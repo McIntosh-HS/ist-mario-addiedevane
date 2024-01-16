@@ -2,6 +2,13 @@
 
 int main()
 {
-	printf("Hi, IST\n");
+	printf("       #\n");
+	printf("      ##\n");
+	printf("     ###\n");
+	printf("    ####\n");
+	printf("   #####\n");
+	printf("  ######\n");
+	printf(" #######\n");
+	printf("########\n");
 	return 0;
 }
